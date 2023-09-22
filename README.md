@@ -11,7 +11,7 @@ You can play the without installation or python using this [link](https://replit
 1. **Clone the Repository:**
 
     ```bash
-    git clone 
+    git clone https://github.com/muhzinkhan/rock-paper-scissors-game.git
     ```
 
 2. **Navigate to the Directory:**
